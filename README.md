@@ -1,6 +1,6 @@
 ## Hi 👋 
 
-<img src="Brian.jpg"alt="profile image" width="500"/>
+<img src="Brian.jpg" alt="profile image" width="500"/>
 <h1 align="center">👋 Hi, I'm Brian Putra Lende!</h1>
 <h3 align="center">🚀 Web Developer | Tech Enthusiast</h3>
 
