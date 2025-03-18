@@ -32,9 +32,8 @@
 </p>
 
 ### 🌍 Connect With Me  
-📧 **Email**: your.email@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](#)  
-💻 **GitHub**: [github.com/your-username](#)  
+📧 **Email**: [brianputralende46@gmail.com](#)  
+💻 **GitHub**: [github.com/BrianPutraLende](#)  
 
 ---
 
